@@ -1,0 +1,3 @@
+https://forum.pdpatchrepo.info/topic/1028/synthetic-thunder - based on Ribner & Roy : acoustics of thunder
+PD Thunder generator
+
